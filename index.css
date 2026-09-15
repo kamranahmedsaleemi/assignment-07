@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 10%;
+
+}
+
+.card{
+    border-radius: 20px;
+    text-align: center;
+    width: 300px;
+    height: max-content;
+    
+    border: 2px solid black;
+    margin-top: -10%;
+}
+.i{
+    border-radius: 20px;
+}
+h1{
+    text-align: left;
+}
+.tap{
+margin-right: 190px;
+border-radius: 5px;
+background-color: black;
+
+}
